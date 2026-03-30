@@ -36,7 +36,7 @@ In the ever-evolving landscape of security and surveillance, the need for intell
 
 ### 🔄 Methodology Block Diagram:
 
-![Methodology](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Block%20Diagram.png)
+![Block Diagram](Images/Block Diagram.png)
 
 ---
 
@@ -71,26 +71,22 @@ In the ever-evolving landscape of security and surveillance, the need for intell
 
 - 📊 **Statistics**
   
-    ![Statistics Screenshot 1](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Statistics%201.png)
-
-    ![Statistics Screenshot 2](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Statistics%202.png)
-
-    ![Statistics Screenshot 3](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Statistics%203.png)
+![Statistics 1](Images/Statistics%201.png)
+![Statistics 2](Images/Statistics%202.png)
+![Statistics 3](Images/Statistics%203.png)
 
   
 - 🔳 **Model Training and Testing Outputs**
 
-  ![Training Screenshot](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Model%20Training.png)
+  ![Model Training](Images/Model%20Training.png)g
   
 - 🛠️ **Model Working**
       
-![Website 1](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Model%20Working%201.png)
 
-![Bounding Box](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Model%20Working%202.png)
 
-![Website 2](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Model%20Working%203.png)
-
-![Google Drive](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Google%20Drive.png)
+![Model Working 1](Images/Model%20Working%201.png)
+![Model Working 2](Images/Model%20Working%202.png)
+![Model Working 3](Images/Model%20Working%203.png)
 
 ---
 
@@ -142,11 +138,7 @@ Vision Transformers (ViTs) offer a powerful approach for modern video surveillan
 - 📡 Integration with smart alert systems  
 - 🔐 Strong emphasis on ethical use and data privacy
   
- ![Future Works Screenshot 1](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Future%20Works%201.png)
 
- ![Future Works Screenshot 2](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Future%20Works%202.png)
-
- ![Future Works Screenshot 3](https://github.com/bhuvanesh2235/-Surveillance-Using-Vision-Transformers-ViTs-/blob/main/Images/Future%20Works%203.jpg)
   
 
 ---
